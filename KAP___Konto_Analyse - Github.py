@@ -1,5 +1,4 @@
 
-from ast import And
 from multiprocessing.connection import Connection
 import pandas as pd
 from selenium import webdriver
